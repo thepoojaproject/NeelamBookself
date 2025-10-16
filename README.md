@@ -744,17 +744,20 @@
         <h2 class="section-title">Recommended Stories</h2>
         <div class="stories-grid">
             <!-- Story 1 -->
-            <div class="story-card" data-title="Whispers in the Dark" data-author="Michael Rivers" data-excerpt="A psychological thriller that will keep you guessing until the very end. Detective Miller finds himself trapped in a cat and mouse game with a serial killer who always seems one step ahead." data-views="18.7K" data-likes="2.8K" data-comments="342">
+            <div class="story-card" data-title="The Godess" data-author="Armeen Sheikh" data-excerpt="A psychological thriller that will keep you guessing until the very end. Detective Miller finds himself trapped in a cat and mouse game with a serial killer who always seems one step ahead." data-views="18.7K" data-likes="2.8K" data-comments="342">
                 <div class="story-header">
-                    <h3 class="story-title">Whispers in the Dark</h3>
+                    <h3 class="story-title">The Godess</h3>
                     <div class="story-author">
                         <div class="author-avatar">MR</div>
-                        <span>Michael Rivers</span>
+                        <span>Armeen Sheikh</span>
                     </div>
                 </div>
                 <div class="story-excerpt">
-                    A psychological thriller that will keep you guessing until the very end. Detective Miller finds himself trapped in a cat and mouse game with a serial killer who always seems one step ahead.
-                </div>
+आर्मीन की आँखें गहरी और बादाम जैसी थीं, जिनमें दर्द और जज़्बात दोनों बसते थे।
+उसकी रंगत दूधिया थी, जैसे चांदनी में घुली रोशनी।
+लंबे, घने काले बाल अक्सर हवा में बिखरकर उसके चेहरे को छूते थे।
+उसकी चाल में नर्मी थी, पर नज़रों में अडिग हौसला झलकता था।
+आर्मीन की ख़ामोशी ही उसकी सबसे बड़ी ख़ूबसूरती थी — शालीन, रहस्यमयी और असरदार। </div>
                 <div class="story-footer">
                     <div class="story-stat">
                         <i class="far fa-eye"></i>
@@ -772,16 +775,25 @@
             </div>
 
             <!-- Story 2 -->
-            <div class="story-card" data-title="Love in Paris" data-author="Amelia Laurent" data-excerpt="A romantic tale set in the city of love, where fate brings two souls together. When American journalist Alex meets French artist Claire, their worlds collide in the most unexpected way." data-views="32.1K" data-likes="5.4K" data-comments="892">
+            <div class="story-card" data-title="The Silent Love" data-author="Neelam Kashyap" data-excerpt=" नीलम, एक शांत और समझदार लड़की, कॉलेज में अर्जुन से मिली और दोस्ती के साथ प्यार भी हुआ।
+अर्जुन ने उसे सिर्फ दोस्त समझा, जबकि नीलम हर मुस्कान में अपना दिल छिपाती रही।
+वो उसके लिए सब करती रही, मगर कभी इज़हार नहीं किया।
+कॉलेज खत्म हुआ, अर्जुन चला गया, और नीलम का प्यार अनकहा रह गया।
+सालों बाद भी उसने सीखा — कुछ मोहब्बतें बोलने से नहीं, महसूस करने से पूरी होती हैं। 💔
+" data-views="32.1K" data-likes="5.4K" data-comments="892">
                 <div class="story-header">
-                    <h3 class="story-title">Love in Paris</h3>
+                    <h3 class="story-title">The Silent Love</h3>
                     <div class="story-author">
-                        <div class="author-avatar">AL</div>
-                        <span>Amelia Laurent</span>
+                        <div class="author-avatar">NK</div>
+                        <span>Neelam Kashyap</span>
                     </div>
                 </div>
                 <div class="story-excerpt">
-                    A romantic tale set in the city of love, where fate brings two souls together. When American journalist Alex meets French artist Claire, their worlds collide in the most unexpected way.
+                    नीलम, एक शांत और समझदार लड़की, कॉलेज में अर्जुन से मिली और दोस्ती के साथ प्यार भी हुआ।
+अर्जुन ने उसे सिर्फ दोस्त समझा, जबकि नीलम हर मुस्कान में अपना दिल छिपाती रही।
+वो उसके लिए सब करती रही, मगर कभी इज़हार नहीं किया।
+कॉलेज खत्म हुआ, अर्जुन चला गया, और नीलम का प्यार अनकहा रह गया।
+सालों बाद भी उसने सीखा — कुछ मोहब्बतें बोलने से नहीं, महसूस करने से पूरी होती हैं। 💔
                 </div>
                 <div class="story-footer">
                     <div class="story-stat">
@@ -800,16 +812,16 @@
             </div>
 
             <!-- Story 3 -->
-            <div class="story-card" data-title="The Forgotten Kingdom" data-author="Thomas Wright" data-excerpt="An epic fantasy adventure in a world of magic, dragons, and ancient prophecies. A young farm boy discovers he is the last heir to a kingdom long thought destroyed." data-views="41.3K" data-likes="7.1K" data-comments="1.2K">
+            <div class="story-card" data-title="Life Line" data-author="Thomas Wright" data-excerpt="चंडीगढ़ की सुखना झील पर अर्जुन बैठा, दूर से सिमरन को निहारता—दूरों दूरों मैं वेखां तैनू सोणियो। बचपन की दोस्त अब दूर, वह सफल आर्किटेक्ट, वह गिटार वाला—की मैं करां के मैं आवां नजर तैनू? गिटार की धुन में लॉन्गिंग उड़ेली, मैनू लगदा सी तू वी मैनू प्यार करेगी," data-views="41.3K" data-likes="7.1K" data-comments="1.2K">
                 <div class="story-header">
-                    <h3 class="story-title">The Forgotten Kingdom</h3>
+                    <h3 class="story-title">Life Line</h3>
                     <div class="story-author">
-                        <div class="author-avatar">TW</div>
-                        <span>Thomas Wright</span>
+                        <div class="author-avatar">BM</div>
+                        <span>Bhim Mondal</span>
                     </div>
                 </div>
                 <div class="story-excerpt">
-                    An epic fantasy adventure in a world of magic, dragons, and ancient prophecies. A young farm boy discovers he is the last heir to a kingdom long thought destroyed.
+                    चंडीगढ़ की सुखना झील पर अर्जुन बैठा, दूर से सिमरन को निहारता—दूरों दूरों मैं वेखां तैनू सोणियो। बचपन की दोस्त अब दूर, वह सफल आर्किटेक्ट, वह गिटार वाला—की मैं करां के मैं आवां नजर तैनू? गिटार की धुन में लॉन्गिंग उड़ेली, मैनू लगदा सी तू वी मैनू प्यार करेगी,
                 </div>
                 <div class="story-footer">
                     <div class="story-stat">
